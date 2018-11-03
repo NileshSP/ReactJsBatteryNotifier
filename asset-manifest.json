@@ -1,8 +1,8 @@
 {
-  "main.js": "/ReactJsBatteryNotifier/static/js/main.322a1c39.chunk.js",
-  "main.js.map": "/ReactJsBatteryNotifier/static/js/main.322a1c39.chunk.js.map",
-  "static/js/1.9cb1cb88.chunk.js": "/ReactJsBatteryNotifier/static/js/1.9cb1cb88.chunk.js",
-  "static/js/1.9cb1cb88.chunk.js.map": "/ReactJsBatteryNotifier/static/js/1.9cb1cb88.chunk.js.map",
+  "main.js": "/ReactJsBatteryNotifier/static/js/main.9e9e7667.chunk.js",
+  "main.js.map": "/ReactJsBatteryNotifier/static/js/main.9e9e7667.chunk.js.map",
+  "static/js/1.ea75f7db.chunk.js": "/ReactJsBatteryNotifier/static/js/1.ea75f7db.chunk.js",
+  "static/js/1.ea75f7db.chunk.js.map": "/ReactJsBatteryNotifier/static/js/1.ea75f7db.chunk.js.map",
   "static/js/2.5a8286fd.chunk.js": "/ReactJsBatteryNotifier/static/js/2.5a8286fd.chunk.js",
   "static/js/2.5a8286fd.chunk.js.map": "/ReactJsBatteryNotifier/static/js/2.5a8286fd.chunk.js.map",
   "static/js/3.efaf4114.chunk.js": "/ReactJsBatteryNotifier/static/js/3.efaf4114.chunk.js",
@@ -13,9 +13,9 @@
   "static/js/5.42f8cc05.chunk.js.map": "/ReactJsBatteryNotifier/static/js/5.42f8cc05.chunk.js.map",
   "static/js/6.da6687cf.chunk.js": "/ReactJsBatteryNotifier/static/js/6.da6687cf.chunk.js",
   "static/js/6.da6687cf.chunk.js.map": "/ReactJsBatteryNotifier/static/js/6.da6687cf.chunk.js.map",
-  "runtime~main.js": "/ReactJsBatteryNotifier/static/js/runtime~main.b8991e4a.js",
-  "runtime~main.js.map": "/ReactJsBatteryNotifier/static/js/runtime~main.b8991e4a.js.map",
+  "runtime~main.js": "/ReactJsBatteryNotifier/static/js/runtime~main.4592afcc.js",
+  "runtime~main.js.map": "/ReactJsBatteryNotifier/static/js/runtime~main.4592afcc.js.map",
   "index.html": "/ReactJsBatteryNotifier/index.html",
-  "precache-manifest.d1fbc4d00f76a4bea857fc010b842080.js": "/ReactJsBatteryNotifier/precache-manifest.d1fbc4d00f76a4bea857fc010b842080.js",
+  "precache-manifest.b79d159a67036c3338e6379c2252cb4c.js": "/ReactJsBatteryNotifier/precache-manifest.b79d159a67036c3338e6379c2252cb4c.js",
   "service-worker.js": "/ReactJsBatteryNotifier/service-worker.js"
 }
