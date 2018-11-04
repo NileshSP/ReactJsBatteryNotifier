@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "72fa0a252d4f7d556940",
-    "url": "/ReactJsBatteryNotifier/static/js/runtime~main.72fa0a25.js"
+    "revision": "75b0bdcd3bdcbb5e5cb2",
+    "url": "/ReactJsBatteryNotifier/static/js/runtime~main.75b0bdcd.js"
   },
   {
     "revision": "06d6b3b7b9c8185779fc",
@@ -28,11 +28,11 @@ self.__precacheManifest = [
     "url": "/ReactJsBatteryNotifier/static/js/2.5a8286fd.chunk.js"
   },
   {
-    "revision": "643f9af077ecefcb0c5c",
-    "url": "/ReactJsBatteryNotifier/static/js/1.643f9af0.chunk.js"
+    "revision": "6dc9a656e93fab83a676",
+    "url": "/ReactJsBatteryNotifier/static/js/1.6dc9a656.chunk.js"
   },
   {
-    "revision": "aa31421093366c4f45b8ab4d782d39d1",
+    "revision": "1b07cee8dea0f2b1e955dce06b4e5a8a",
     "url": "/ReactJsBatteryNotifier/index.html"
   }
 ];
