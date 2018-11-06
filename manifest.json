@@ -1,5 +1,5 @@
 {
-  "short_name": "Battery Push",
+  "short_name": "Battery Notifier",
   "name": "Battery notifier app build using react",
   "icons": [
     {
@@ -10,6 +10,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#32e547",
+  "background_color": "#00e2cc"
 }
