@@ -1,8 +1,8 @@
 {
   "main.js": "/ReactJsBatteryNotifier/static/js/main.6aa22963.chunk.js",
   "main.js.map": "/ReactJsBatteryNotifier/static/js/main.6aa22963.chunk.js.map",
-  "static/js/1.26ff2a15.chunk.js": "/ReactJsBatteryNotifier/static/js/1.26ff2a15.chunk.js",
-  "static/js/1.26ff2a15.chunk.js.map": "/ReactJsBatteryNotifier/static/js/1.26ff2a15.chunk.js.map",
+  "static/js/1.9de2a770.chunk.js": "/ReactJsBatteryNotifier/static/js/1.9de2a770.chunk.js",
+  "static/js/1.9de2a770.chunk.js.map": "/ReactJsBatteryNotifier/static/js/1.9de2a770.chunk.js.map",
   "static/js/2.a4bb6896.chunk.js": "/ReactJsBatteryNotifier/static/js/2.a4bb6896.chunk.js",
   "static/js/2.a4bb6896.chunk.js.map": "/ReactJsBatteryNotifier/static/js/2.a4bb6896.chunk.js.map",
   "static/js/3.965795d5.chunk.js": "/ReactJsBatteryNotifier/static/js/3.965795d5.chunk.js",
@@ -13,9 +13,9 @@
   "static/js/5.cbb63705.chunk.js.map": "/ReactJsBatteryNotifier/static/js/5.cbb63705.chunk.js.map",
   "static/js/6.0280ed3c.chunk.js": "/ReactJsBatteryNotifier/static/js/6.0280ed3c.chunk.js",
   "static/js/6.0280ed3c.chunk.js.map": "/ReactJsBatteryNotifier/static/js/6.0280ed3c.chunk.js.map",
-  "runtime~main.js": "/ReactJsBatteryNotifier/static/js/runtime~main.3d8d309a.js",
-  "runtime~main.js.map": "/ReactJsBatteryNotifier/static/js/runtime~main.3d8d309a.js.map",
+  "runtime~main.js": "/ReactJsBatteryNotifier/static/js/runtime~main.69183900.js",
+  "runtime~main.js.map": "/ReactJsBatteryNotifier/static/js/runtime~main.69183900.js.map",
   "index.html": "/ReactJsBatteryNotifier/index.html",
-  "precache-manifest.88a0c54bb55523befc38bf7439f479fc.js": "/ReactJsBatteryNotifier/precache-manifest.88a0c54bb55523befc38bf7439f479fc.js",
+  "precache-manifest.6386cff55d38517b81520900e135b7e0.js": "/ReactJsBatteryNotifier/precache-manifest.6386cff55d38517b81520900e135b7e0.js",
   "service-worker.js": "/ReactJsBatteryNotifier/service-worker.js"
 }
