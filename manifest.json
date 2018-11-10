@@ -3,7 +3,7 @@
   "name": "Battery notifier app build using react",
   "icons": [
     {
-      "src": "https://nileshsp.github.io/ReactJsBatteryNotifier/favicon.ico",
+      "src": "https://nileshsp.github.io/ReactJsBatteryNotifier/ic_launcher.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
