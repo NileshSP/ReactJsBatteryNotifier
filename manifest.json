@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://nileshsp.github.io/ReactJsBatteryNotifier/",
   "display": "standalone",
   "theme_color": "#32e547",
   "background_color": "#00e2cc"
