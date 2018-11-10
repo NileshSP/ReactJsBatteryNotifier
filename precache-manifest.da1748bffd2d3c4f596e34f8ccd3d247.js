@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/ReactJsBatteryNotifier/static/js/1.25408754.chunk.js"
   },
   {
-    "revision": "f1c52c77fbb87234c95b9f190baa3758",
+    "revision": "58e838a232e685d8bef4dfffb543a281",
     "url": "/ReactJsBatteryNotifier/index.html"
   }
 ];
