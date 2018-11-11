@@ -1,5 +1,5 @@
 {
-  "short_name": "Battery",
+  "short_name": "Battery Notifier",
   "name": "Battery notifier app",
   "icons": [
     {
@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "theme_color": "#00e2cc",
   "background_color": "#32e547"
