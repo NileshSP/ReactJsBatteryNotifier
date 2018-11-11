@@ -1,6 +1,6 @@
 {
   "short_name": "Battery",
-  "name": "Battery notifier app build using react",
+  "name": "Battery notifier app",
   "icons": [
     {
       "src": "ic_launcher.png",
