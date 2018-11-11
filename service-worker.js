@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ReactJsBatteryNotifier/precache-manifest.48552590d5276f72ced28649338e62a1.js"
+  "/ReactJsBatteryNotifier/precache-manifest.d94ae692b094ac49540a82b832d32adf.js"
 );
 
 workbox.clientsClaim();
