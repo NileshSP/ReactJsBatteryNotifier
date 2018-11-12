@@ -1,15 +1,14 @@
 {
-  "short_name": "Battery Notifier",
-  "name": "Battery notifier app",
-  "icons": [
-    {
-      "src": "ic_launcher.png",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
+  "name": "Battery Notifier",
+  "short_name": "Battery 😎",
+  "description": "Battery notifier web app",
   "start_url": "index.html",
   "display": "standalone",
+  "background_color": "#32e547",
   "theme_color": "#00e2cc",
-  "background_color": "#32e547"
+  "icons": [{
+    "src": "ic_launcher.png",
+    "sizes": "64x64 32x32 24x24 16x16",
+    "type": "image/png"
+  }]
 }
