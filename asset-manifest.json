@@ -1,6 +1,6 @@
 {
-  "main.js": "/ReactJsBatteryNotifier/static/js/main.d9d7e923.chunk.js",
-  "main.js.map": "/ReactJsBatteryNotifier/static/js/main.d9d7e923.chunk.js.map",
+  "main.js": "/ReactJsBatteryNotifier/static/js/main.04bf5467.chunk.js",
+  "main.js.map": "/ReactJsBatteryNotifier/static/js/main.04bf5467.chunk.js.map",
   "static/js/1.430a536b.chunk.js": "/ReactJsBatteryNotifier/static/js/1.430a536b.chunk.js",
   "static/js/1.430a536b.chunk.js.map": "/ReactJsBatteryNotifier/static/js/1.430a536b.chunk.js.map",
   "static/js/2.b4530f4f.chunk.js": "/ReactJsBatteryNotifier/static/js/2.b4530f4f.chunk.js",
@@ -16,6 +16,6 @@
   "runtime~main.js": "/ReactJsBatteryNotifier/static/js/runtime~main.97200e7c.js",
   "runtime~main.js.map": "/ReactJsBatteryNotifier/static/js/runtime~main.97200e7c.js.map",
   "index.html": "/ReactJsBatteryNotifier/index.html",
-  "precache-manifest.49eb2b1dd58d046171f8e50a73088a81.js": "/ReactJsBatteryNotifier/precache-manifest.49eb2b1dd58d046171f8e50a73088a81.js",
+  "precache-manifest.ca5323901d74aee56e20e0e68582b3a3.js": "/ReactJsBatteryNotifier/precache-manifest.ca5323901d74aee56e20e0e68582b3a3.js",
   "service-worker.js": "/ReactJsBatteryNotifier/service-worker.js"
 }
