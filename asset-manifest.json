@@ -1,10 +1,10 @@
 {
-  "main.js": "/ReactJsBatteryNotifier/static/js/main.1f33733a.chunk.js",
-  "main.js.map": "/ReactJsBatteryNotifier/static/js/main.1f33733a.chunk.js.map",
+  "main.js": "/ReactJsBatteryNotifier/static/js/main.8f64e167.chunk.js",
+  "main.js.map": "/ReactJsBatteryNotifier/static/js/main.8f64e167.chunk.js.map",
   "static/js/1.430a536b.chunk.js": "/ReactJsBatteryNotifier/static/js/1.430a536b.chunk.js",
   "static/js/1.430a536b.chunk.js.map": "/ReactJsBatteryNotifier/static/js/1.430a536b.chunk.js.map",
-  "static/js/2.7a223ec8.chunk.js": "/ReactJsBatteryNotifier/static/js/2.7a223ec8.chunk.js",
-  "static/js/2.7a223ec8.chunk.js.map": "/ReactJsBatteryNotifier/static/js/2.7a223ec8.chunk.js.map",
+  "static/js/2.8e051af1.chunk.js": "/ReactJsBatteryNotifier/static/js/2.8e051af1.chunk.js",
+  "static/js/2.8e051af1.chunk.js.map": "/ReactJsBatteryNotifier/static/js/2.8e051af1.chunk.js.map",
   "static/js/3.adeda4e1.chunk.js": "/ReactJsBatteryNotifier/static/js/3.adeda4e1.chunk.js",
   "static/js/3.adeda4e1.chunk.js.map": "/ReactJsBatteryNotifier/static/js/3.adeda4e1.chunk.js.map",
   "static/js/4.36fbd098.chunk.js": "/ReactJsBatteryNotifier/static/js/4.36fbd098.chunk.js",
@@ -13,9 +13,9 @@
   "static/js/5.79ba34bb.chunk.js.map": "/ReactJsBatteryNotifier/static/js/5.79ba34bb.chunk.js.map",
   "static/js/6.59a21767.chunk.js": "/ReactJsBatteryNotifier/static/js/6.59a21767.chunk.js",
   "static/js/6.59a21767.chunk.js.map": "/ReactJsBatteryNotifier/static/js/6.59a21767.chunk.js.map",
-  "runtime~main.js": "/ReactJsBatteryNotifier/static/js/runtime~main.f5fe6ff0.js",
-  "runtime~main.js.map": "/ReactJsBatteryNotifier/static/js/runtime~main.f5fe6ff0.js.map",
+  "runtime~main.js": "/ReactJsBatteryNotifier/static/js/runtime~main.459f6311.js",
+  "runtime~main.js.map": "/ReactJsBatteryNotifier/static/js/runtime~main.459f6311.js.map",
   "index.html": "/ReactJsBatteryNotifier/index.html",
-  "precache-manifest.252f36519a1230cd7c4495894e4ee85b.js": "/ReactJsBatteryNotifier/precache-manifest.252f36519a1230cd7c4495894e4ee85b.js",
+  "precache-manifest.3fb166a26dedf0c01a5f102e3fcb9230.js": "/ReactJsBatteryNotifier/precache-manifest.3fb166a26dedf0c01a5f102e3fcb9230.js",
   "service-worker.js": "/ReactJsBatteryNotifier/service-worker.js"
 }
