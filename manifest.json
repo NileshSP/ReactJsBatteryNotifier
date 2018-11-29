@@ -2,7 +2,7 @@
   "name": "Battery Notifier",
   "short_name": "Battery 😎",
   "description": "Battery notifier web app",
-  "start_url": "index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#32e547",
   "theme_color": "#00e2cc",
