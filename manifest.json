@@ -1,14 +1,112 @@
 {
   "name": "Battery Notifier",
-  "short_name": "Battery 😎",
+  "short_name": "Battery",
   "description": "Battery notifier web app",
-  "start_url": ".",
-  "display": "standalone",
+  "start_url": "https://nileshsp.github.io/ReactJsBatteryNotifier/",
+  "display": "minimal-ui",
   "background_color": "#32e547",
   "theme_color": "#00e2cc",
-  "icons": [{
-    "src": "ic_launcher.png",
-    "sizes": "64x64 32x32 24x24 16x16",
-    "type": "image/png"
-  }]
+  "icons": [
+      {
+          "src": "/images/ic_launcher.png",
+          "sizes": "64x64 32x32 24x24 16x16",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/9e6d4057-0fe7-5f97-c426-a37d254f1dba.webPlatform.png",
+          "sizes": "44x44",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/c07a150a-6dcc-9649-cbd2-0a205a308fd5.webPlatform.png",
+          "sizes": "48x48",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/windows10/SplashScreen.scale-200.png.png",
+          "sizes": "1240x600",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/68eb3dc5-7f0d-009a-35dd-dd332233bda5.webPlatform.png",
+          "sizes": "300x300",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/e78e6ac9-27f7-9c57-06f7-a509aef8e6a5.webPlatform.png",
+          "sizes": "150x150",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/20f58c5d-8360-4047-a2fd-18ed9474e4ab.webPlatform.png",
+          "sizes": "88x88",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/698c9e56-885c-6b81-adea-8a1149ff7ebf.webPlatform.png",
+          "sizes": "24x24",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/721bd65d-504c-fd02-b905-ed091d652550.webPlatform.png",
+          "sizes": "50x50",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/53169048-8072-532e-1166-ad995b38e27e.webPlatform.png",
+          "sizes": "620x300",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/ac154d7d-17c1-b9ba-b995-4af1e7d24928.webPlatform.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/48f97201-779e-3445-3e5a-54348f7e7e0f.webPlatform.png",
+          "sizes": "144x144",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/c1c72edc-f238-5f93-c9f0-6981481a3c83.webPlatform.png",
+          "sizes": "96x96",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/23d06678-893f-3c02-62e6-e4748231663f.webPlatform.png",
+          "sizes": "72x72",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/bd63b1d3-298f-1bb0-941a-8b779699cc1c.webPlatform.png",
+          "sizes": "36x36",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/ios/ios-appicon-1024-1024.png",
+          "sizes": "1024x1024",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/90a2e26d-b05a-a82b-f90a-f852b73e77d0.webPlatform.png",
+          "sizes": "180x180",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/0e5df7d4-b97d-3366-fa8a-3ab404810b16.webPlatform.png",
+          "sizes": "152x152",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/7217240d-25be-c1c1-df37-b34c46bf0540.webPlatform.png",
+          "sizes": "120x120",
+          "type": "image/png"
+      },
+      {
+          "src": "/images/8b093d73-f7f1-37e5-ba99-a386ab60181f.webPlatform.png",
+          "sizes": "76x76",
+          "type": "image/png"
+      }
+  ],
+  "lang": ""
 }
