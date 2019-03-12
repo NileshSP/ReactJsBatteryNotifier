@@ -1,15 +1,21 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Battery Notifier",
+  "short_name": "Battery",
+  "description": "Battery notifier web app",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "ic_launcher.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
+    },
+    {
+      "src": "ic_launcherbig.png",
+      "sizes": "620x300 512x512 192x192",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#32e547",
+  "theme_color": "#00e2cc"
 }

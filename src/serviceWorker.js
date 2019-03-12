@@ -8,7 +8,7 @@
 // resources are updated in the background.
 
 // To learn more about the benefits of this model and instructions on how to
-// opt-in, read https://bit.ly/CRA-PWA
+// opt-in, read http://bit.ly/CRA-PWA
 
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
@@ -21,7 +21,7 @@ const isLocalhost = Boolean(
 );
 
 export function register(config) {
-  if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator) {
+  if ('serviceWorker' in navigator && process.env.NODE_ENV === 'production') {
     // The URL constructor is available in all browsers that support SW.
     const publicUrl = new URL(process.env.PUBLIC_URL, window.location.href);
     if (publicUrl.origin !== window.location.origin) {
@@ -43,7 +43,7 @@ export function register(config) {
         navigator.serviceWorker.ready.then(() => {
           console.log(
             'This web app is being served cache-first by a service ' +
-              'worker. To learn more, visit https://bit.ly/CRA-PWA'
+              'worker. To learn more, visit http://bit.ly/CRA-PWA'
           );
         });
       } else {
@@ -71,14 +71,56 @@ function registerValidSW(swUrl, config) {
               // content until all client tabs are closed.
               console.log(
                 'New content is available and will be used when all ' +
-                  'tabs for this page are closed. See https://bit.ly/CRA-PWA.'
+                  'tabs for this page are closed. See http://bit.ly/CRA-PWA.'
               );
 
               // Execute callback
               if (config && config.onUpdate) {
                 config.onUpdate(registration);
               }
-            } else {
+            } else {              
+              //Install stage sets up the index page (home page) in the cache and opens a new cache
+              window.addEventListener('install', function(event) {
+                var indexPage = new Request('index.html');
+                event.waitUntil(
+                  fetch(indexPage).then(function(response) {
+                    return caches.open('pwabuilder-offline').then(function(cache) {
+                      console.log('[PWA Builder] Cached index page during Install'+ response.url);
+                      return cache.put(indexPage, response);
+                    });
+                }));
+              });
+
+              //If any fetch fails, it will look for the request in the cache and serve it from there first
+              window.addEventListener('fetch', function(event) {
+                var updateCache = function(request){
+                  return caches.open('pwabuilder-offline').then(function (cache) {
+                    return fetch(request).then(function (response) {
+                      console.log('[PWA Builder] add page to offline'+response.url)
+                      return cache.put(request, response);
+                    });
+                  });
+                };
+
+                event.waitUntil(updateCache(event.request));
+
+                event.respondWith(
+                  fetch(event.request).catch(function(error) {
+                    console.log( '[PWA Builder] Network request Failed. Serving content from cache: ' + error );
+
+                    //Check to see if you have it in the cache
+                    //Return response
+                    //If not in the cache, then return error page
+                    return caches.open('pwabuilder-offline').then(function (cache) {
+                      return cache.match(event.request).then(function (matching) {
+                        var report =  !matching || matching.status === 404?Promise.reject('no-match'): matching;
+                        return report
+                      });
+                    });
+                  })
+                );
+              })
+
               // At this point, everything has been precached.
               // It's the perfect time to display a
               // "Content is cached for offline use." message.
