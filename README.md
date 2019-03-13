@@ -1,5 +1,5 @@
 # ReactJsBatteryNotifier
-Sample web app built using react for triggering battery notifications as per settings preferences suggested by user
+Sample web app built using react for triggering battery notifications as per setting preferences suggested by user
 
 App only works in battery api supported chrome browser 
 
